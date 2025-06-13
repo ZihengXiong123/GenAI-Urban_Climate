@@ -1,0 +1,1 @@
+This repository contains the open-source code and data for the paper "Integrating Generative AI and Climate Modeling for Urban Heat Island Mitigation". The study proposes a novel framework combining a hybrid Pix2pix-CycleGAN model with the Urban Weather Generator (UWG) to generate and evaluate climate-resilient urban forms.
